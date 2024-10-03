@@ -1,0 +1,27 @@
+body {
+    background-color: #2b2b2b;
+    text-align: center;
+}
+
+h1, 
+p,
+
+#uno {
+    background-color: azure;
+    color: rgb(115, 87, 42);
+}
+
+#dos {
+    color: rgb(230, 230, 230);
+    background-color: rgb(181, 142, 80);
+}
+
+#tres {
+    color: rgb(225, 213, 180);
+    background-color: rgb(115, 87, 42);
+}
+
+#cuatro {
+    color: rgb(255, 255, 255);
+    background-color: rgb(58, 44, 21);
+}
