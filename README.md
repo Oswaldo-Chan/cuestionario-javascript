@@ -42,7 +42,6 @@
 40. What is ECMAScript? [Video](-)
 41. What are the new features in ES6 or ECMAScript 2015? [Video](-)
 42. What's the difference between var, let and const keywords? [Video](-)
---------------------------------------------------------------------------------------------- CHECK
 43. What are Arrow Functions? [Video](-)
 44. What are Classes? [Video](-)
 45. What are Template Literal? [Video](-)
